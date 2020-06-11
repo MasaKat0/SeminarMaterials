@@ -3,3 +3,4 @@
 - 6/20 @BreadSeminar モデル選択
 - 6/19 @EconCafeTime Stratified Sampling
 - 6/27 @IchimuraSeinar　方策学習
+- 6/???　最適腕識別
