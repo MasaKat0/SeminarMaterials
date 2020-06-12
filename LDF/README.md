@@ -20,3 +20,6 @@ https://papers.nips.cc/paper/9312-online-exp3-learning-in-adversarial-bandits-wi
 
 Bandits with Delayed, Aggregated Anonymous Feedback
 http://proceedings.mlr.press/v80/pike-burke18a/pike-burke18a.pdf
+
+Online Learning under Delayed Feedback
+http://proceedings.mlr.press/v28/joulani13.html
