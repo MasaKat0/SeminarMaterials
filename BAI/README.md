@@ -1,4 +1,5 @@
 # 最適腕識別
+1. バンディット問題の理論とアルゴリズム，第6章（本多本）  
 1. Pure Exploration in Multi-Armed Bandits Problems  
 https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/ALT09_BMS.pdf
 2. Multi-Bandit Best Arm Identification  
@@ -23,5 +24,11 @@ https://arxiv.org/abs/1902.10582
 http://proceedings.mlr.press/v35/jamieson14
 12. A Bandit Approach to Multiple Testing with False Discovery Control  
 https://papers.nips.cc/paper/7624-a-bandit-approach-to-sequential-experimental-design-with-false-discovery-control.pdf
-13. 本多本
-
+13. Sublinear Optimal Policy Value Estimation in Contextual Bandits
+http://proceedings.mlr.press/v108/kong20b.html
+14. Taming the Monster: A Fast and Simple Algorithm for Contextual Bandits
+http://proceedings.mlr.press/v32/agarwalb14
+15. Sequential Experimental Design for Transductive Linear Bandits
+http://papers.nips.cc/paper/9251-sequential-experimental-design-for-transductive-linear-bandits
+16. Towards Optimal and Efficient Best Arm Identification in Linear Bandits  
+https://arxiv.org/pdf/1911.01695.pdf 
