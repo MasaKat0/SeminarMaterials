@@ -1,6 +1,8 @@
-# ゼミの資料
-- 6/20 @BreadSeminar 遅れフィードバック
-- 6/20 @BreadSeminar モデル選択
-- 6/19 @EconCafeTime Stratified Sampling
-- 6/27 @IchimuraSeinar　方策学習
-- 6/???　最適腕識別
+# 局所ラデマッハ複雑度
+
+Learning Kernels Using Local Rademacher Complexity
+- https://static.googleusercontent.com/media/research.google.com/ja//pubs/archive/42029.pdf
+
+Rademacher Complexities and Bounding the Excess Risk in Active
+Learning
+- http://www.jmlr.org/papers/volume11/koltchinskii10a/koltchinskii10a.pdf
